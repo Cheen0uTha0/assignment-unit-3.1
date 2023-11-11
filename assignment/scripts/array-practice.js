@@ -11,9 +11,14 @@ console.log('Animals are: ', animalArray);
 //    Be sure to console.log your array of foods to the console with
 //    a message, similar to the example above.
 
+let favoriteFoods = ['Pho', 'pizza', 'tum yum', 'instant noodle'];
+console.log('My favorite foods are ', favoriteFoods);
+
 
 // Array.length: A property that tells you how many items are in a given array.
 console.log('--- 2. Length of an array ---');
+let food = favoriteFoods.length
+console.log('Numbers of favorite foods:', food);
 
 // Example: How many animals are in the array?
 let numberOfAnimals = animalArray.length // 👈 Using the .length property!
