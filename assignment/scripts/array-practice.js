@@ -26,7 +26,7 @@ console.log('Number of animals:', numberOfAnimals);
 //    Don't forget to console.log `numberOfFoods` to make sure your code worked!
 
 let foods = favoriteFoods.length
-console.log('Numbers favorite foods are:', foods);
+console.log('Numbers of favorite foods are:', foods);
 
 
 // Accessing array items
