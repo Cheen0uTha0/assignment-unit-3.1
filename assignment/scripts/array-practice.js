@@ -17,6 +17,8 @@ console.log('My favorite foods are:', favoriteFoods);
 // Array.length: A property that tells you how many items are in a given array.
 console.log('--- 2. Length of an array ---');
 
+console.log(favoriteFoods.length);
+
 // Example: How many animals are in the array?
 let numberOfAnimals = animalArray.length // 👈 Using the .length property!
 console.log('Number of animals:', numberOfAnimals);
